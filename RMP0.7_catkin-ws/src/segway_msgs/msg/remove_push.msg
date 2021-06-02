@@ -1,0 +1,1 @@
+bool remove_push_cmd

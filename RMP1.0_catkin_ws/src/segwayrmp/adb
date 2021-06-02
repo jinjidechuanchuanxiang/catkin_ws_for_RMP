@@ -1,0 +1,44 @@
+[Trace] adb/gHoserSerialInterface0: -Warning [2000.190301s] HeartBeat is call!  recv_state:0
+
+[Trace] adb/gHoserSerialInterface0: -Warning [2005.190006s] HeartBeat is call!  recv_state:0
+
+[Trace] adb/gHoserSerialInterface0: -Warning [2010.191006s] HeartBeat is call!  recv_state:0
+
+[2000.189489s] chassis version is 0x0000
+
+[Trace] adb/gHostComuCore: -Verbose [2000.192714s] connect version is 0x0000
+
+[Trace] adb/gHostComuCore: -Verbose [2000.193235s] route version is 0x0000
+
+[Trace] adb/gHostComuCore: -Verbose [2000.193434s] init_control: InitControlApi success!
+
+[Trace] adb/gHostComuCore: -Verbose [2000.206489s] ComuCoreCheckRecvThread: ComuCoreInterfaceCheckRecvThread thread create success!
+
+[Trace] adb/gHostComuCore: -Verbose [2000.212636s] init_control: CheckStampFrameRingbufferThread thread create success!
+
+[Trace] adb/gHostComuCore: -Verbose [2000.221299s] init_control: CheckEventRingbufferThread thread create success!
+
+[Trace] adb/gHostComuCore: -Verbose [2000.230497s] timestamp err!,Chassis_Data_Speed timestamp:1591954400230
+
+[Trace] adb/gHostComuCore: -Verbose [2000.230996s] timestamp err!,Chassis_Data_Imu timestamp:1591954400230
+
+[Trace] adb/gHostComuCore: -Verbose [2000.231463s] timestamp err!,Chassis_Data_Ticks timestamp:1591954400230
+
+[Trace] adb/gHostComuCore: -Verbose [2000.233882s] timestamp err!,Connect_Data_Bumper timestamp:1591954400230
+
+[Trace] adb/gHostComuCore: -Verbose [2000.237380s] timestamp err!,Connect_Data_Ultrasonic timestamp:1591954400230
+
+[Trace] adb/gHostComuCore: -Verbose [2000.238113s] timestamp err!,Chassis_Data_Iq timestamp:1591954400230
+
+[Trace] adb/gHostComuCore: -Verbose [2000.238385s] SysTimestamp:1591954400230
+
+[Trace] adb/gHostComuCore: -Verbose [2000.239319s] Chassis_Data_Speed:0  Chassis_Data_Imu:0 Chassis_Data_Ticks:0  Chassis_Data_Iq:0
+
+[Trace] adb/gHostComuCore: -Verbose [2000.240119s] Connect_Data_Bumper:0  Connect_Data_Ultrasonic:0
+
+[Trace] adb/gHostComuCore: -Verbose [2000.254316s] init_control: TaskCheckDataUpdate20Hz thread create success!
+
+[Trace] adb/gHostComuCore: -Verbose [2002.272485s] aprctrl_datastamped_jni_register: AprGxJniEventRegister  is call!
+
+[Trace] adb/gHostComuCore: -Verbose [2002.272717s] aprctrl_eventcallback_jni_register: AprGxJniEventCallbackRegister  is call!
+

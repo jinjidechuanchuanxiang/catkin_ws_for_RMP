@@ -1,0 +1,1 @@
+bool chassis_poweroff   
